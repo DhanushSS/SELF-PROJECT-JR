@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+
+.heado {
+    text-align: center;
+    background: linear-gradient(to right, red 0%, yellow 100%);
+    font-family: 'Fredericka the Great',
+        cursive;
+}
+
+.headt {
+    text-align: left;
+    align-items: left;
+
+}
+
+body {
+    background: linear-gradient(to bottom, green 0%, yellow 100%)fixed;
+}
+
+.headth {
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Grenze Gotisch',
+        cursive;
+}
+
+.ul {
+    font-size: 2em;
+    font-family: 'Pacifico',
+        cursive;
+}
+
+.anchor {
+    text-align: right;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    border: 2px solid orangered;
+    border-right-width: 550px;
+    border-left-width: 550px;
+    font-size: 2em;
+}
+
+.image {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin-left: 600px;
+}

@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@900&display=swap");
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(to top, orangered 0%, blue 100%)fixed;
+}
+
+.header {
+    text-align: center;
+    font-family: 'Fredericka the Great',
+        cursive;
+    background: linear-gradient(to right, red 0%, yellow 100%);
+    font-size: 3em;
+}
+
+.header :hover {
+    color: goldenrod;
+}
+
+.headt {
+    color: goldenrod;
+    font-family: 'Grenze Gotisch',
+        cursive;
+    font-size: 3em;
+}
+
+.headt :hover {
+    color: hotpink;
+
+}
+
+.headth {
+    color: goldenrod;
+    font-family: 'Grenze Gotisch',
+        cursive;
+    font-size: 3em;
+}
+
+.headth :hover {
+    color: hotpink;
+}
+
+.headu {
+    color: goldenrod;
+    font-family: 'Grenze Gotisch',
+        cursive;
+    font-size: 3em;
+}
+
+.headu :hover {
+    color: hotpink;
+}
+
+.heada {
+    color: goldenrod;
+    font-family: 'Grenze Gotisch',
+        cursive;
+    font-size: 3em;
+}
+
+.heada :hover {
+    color: hotpink;
+}
+
+.image {
+    margin-left: 1100px;
+    display: flex;
+    padding-top: 100px;
+}
+
+.headc {
+    color: goldenrod;
+    font-family: 'Grenze Gotisch',
+        cursive;
+    font-size: 3em;
+}
+
+.headc :hover {
+    color: hotpink;
+}
+
+.heading {
+    display: flex;
+
+}
